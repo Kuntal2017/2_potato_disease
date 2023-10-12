@@ -13,7 +13,4 @@ Steps
 	2.2 data augmentation(for generation of more data)
 3. Model building using - CNN
 4. Export model in local disk
-5. running tf server on this models--tf serving will called from api
-6. Website development using Reactjs
-7. For mobile deployment -- we convert this models to tf-lite models
-	using quantization(reducing the speed of the model).
+5. Accuracy = 98 %
